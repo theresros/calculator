@@ -1,0 +1,12 @@
+import java.io.*;
+public class calculator
+{
+public static void main()
+{
+int a,b,S=0;
+System .out.println("enter  number a")
+System .out.println("enter  number b")
+S=a+b;
+System .out.println("The sum="+S)
+}
+}
